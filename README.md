@@ -28,3 +28,8 @@ Sur un tableau blanc, il peut aussi vous servir à fixer des feuilles:
 ou vous pouvez en utiliser plusieurs pour y fixer des feutres:
 
 ![](https://raw.githubusercontent.com/fablab-fribourg/stay-open/master/images/20140814_144723.jpg)
+
+Le dessin vectoriel de ce projet est disponible sur github.
+
+![](https://raw.githubusercontent.com/fablab-fribourg/stay-open/master/images/stay-open-center.png)
+
